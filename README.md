@@ -50,4 +50,3 @@ One of the biggest challenges was **handling and structuring over 3,000+ landown
 
 ---
 
-This is **GitHub-ready**! It will be **well-formatted when pasted into a README.md file**. Let me know if you want additional sections like **installation steps**, **screenshots**, or **API details**! 🚀  
